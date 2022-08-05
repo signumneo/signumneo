@@ -5,9 +5,43 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Jacob-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm a MU BE in Electronics and Telecommunication student an incoming graduate student at UCLA (Fall 2022).
+Being a tech enthusiast, I have skills in programming, web designing (front-end), web development, IoT, Android Studio and a lot of designing softwares like Adobe XD, Photoshop, Illustrator, After Effects, Canva and Figma. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+The fusion of design and code has always been a mystery to me. One can create magic in its highest form if a state of perfect amalgamation has been attained between the design and code aspects. I seek to attain the knowledge and skills required to achieve this state in every project I work on.
+
+The programming languages I have worked with includes:
+C
+C++
+Java
+Python
+JavaScript
+
+Tools worked on include:
+Adobe Photoshop 
+Adobe Illustrator (*Logo and Illustration design*)
+Adobe After Effects
+Adobe XD (*for UI/UX*)
+Figma 
+Canva (*Video Editing and Thumbnail design*)
+
+Hardware boards I have worked with:
+Arduino UNO
+Arduino NANO
+Arduino MEGA
+ESP32 
+ESP8266 (WIFI)
+RASPBERRY PI 2B
+
+Frameworks used:
+FLASK
+DJANGO
+PyTORCH
+
+Currently working on a Full Stack Web Developement Training and internship with Edureka. Different types of programming languages, skills, and frameworks will be used. 
+React, NodeJS+Express, MongoDB, CSS, HTML, Bootstrap are being used. 
+
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg)
