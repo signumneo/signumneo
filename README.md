@@ -1,9 +1,9 @@
 ### Hey Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)
-[![Linkedin Badge](https://img.shields.io/badge/-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Jacob-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
+[![Linkedin Badge](https://img.shields.io/badge/-Jacob Thomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Jacob Thomas-green)](https://signumneo.github.io/JacobProfile/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob Thomas-yellow)](https://stackoverflow.com/users/19652735/signumneo)
 
 I'm a MU BE in Electronics and Telecommunication student an incoming graduate student at UCLA (Fall 2022).
 Being a tech enthusiast, I have skills in programming, web designing (front-end), web development, IoT, Android Studio and a lot of designing softwares like Adobe XD, Photoshop, Illustrator, After Effects, Canva and Figma. 
