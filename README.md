@@ -1,7 +1,7 @@
 <h1 align ="center">Hey Developers 👋, I'm Jacob Thomas</h1>
-<img align="middle" alt='Coding' width='900' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="middle" alt='Coding' width='900' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"/>
 
-<center>[![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)</center>
+[![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Jacob-green)](https://signumneo.github.io/Jacobprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
