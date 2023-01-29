@@ -37,13 +37,11 @@ FLASK
 DJANGO
 PyTORCH
 
-Currently working on a Full Stack Web Developement Training and internship with Edureka. Different types of programming languages, skills, and frameworks will be used. 
-React, NodeJS+Express, MongoDB, CSS, HTML, Bootstrap are being used. 
 
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg)
+<center> ![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg) </center>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
