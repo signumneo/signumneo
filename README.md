@@ -58,6 +58,8 @@ Languages and Tools:
 
 Contact Me:
 <br>
+<br>
+<br>
 [![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
