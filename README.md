@@ -42,7 +42,8 @@ PyTORCH
 
 ![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg)
 
-
+<h4>Github Profile Trophy 🏆</h4>
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=signumneo)
 
 
