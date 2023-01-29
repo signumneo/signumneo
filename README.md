@@ -40,8 +40,7 @@ PyTORCH
 
 
 
-
-<center> ![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg) </center>
+![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
