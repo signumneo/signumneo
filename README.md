@@ -1,5 +1,7 @@
 <h1 align ="center">Hey Developers 👋, I'm Jacob Thomas</h1>
-<center><img align="middle" alt='Coding' width='900' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"></center>
+<div style="display: flex; justify-content: center;">
+  <img align="middle" alt='Coding' width='900' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+ </div>
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
