@@ -42,10 +42,10 @@ PyTORCH
 
 ![Visitor Count](https://profile-counter.glitch.me/signumneo/count.svg)
 
-<div>
+
   <h4>🏆 Github Profile Trophy</h4>
   [![trophy](https://github-profile-trophy.vercel.app/?username=signumneo)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 Languages and Tools: 
 
