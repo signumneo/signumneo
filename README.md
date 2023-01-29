@@ -2,12 +2,16 @@
 
 <img align="middle" alt='Coding' width='1000' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
+<center>
 [![YouTube Badge](https://img.shields.io/badge/YouTube-HANA-red)](https://www.youtube.com/channel/UCSTYmM-0MdK8Mc3qO6dDtCw//)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-thomas-8359111b0/)](https://www.linkedin.com/in/jacob-thomas-8359111b0/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Jacob-green)](https://signumneo.github.io/Jacobprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
+</center>
 
 I'm a Mumbai University BE in Electronics and Telecommunication graduate. Currently I am a Graduate student at University of California, Los Angeles (Fall 2022). <br>
+
+
 Being a tech enthusiast, I have skills in programming, web designing (front-end), web development, IoT, Android Studio and a lot of designing softwares like Adobe XD, Photoshop, Illustrator, After Effects, Canva and Figma. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 The fusion of design and code has always been a mystery to me. One can create magic in its highest form if a state of perfect amalgamation has been attained between the design and code aspects. I seek to attain the knowledge and skills required to achieve this state in every project I work on.
