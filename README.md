@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Jacob-green)](https://signumneo.github.io/Jacobprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Jacob-yellow)](https://stackoverflow.com/users/19652735/signumneo)
 
-I'm a MU BE in Electronics and Telecommunication student an incoming graduate student at UCLA (Fall 2022).
+I'm a Mumbai University BE in Electronics and Telecommunication graduate. Currently I am a Graduate student at University of California, Los Angeles (Fall 2022). <br>
 Being a tech enthusiast, I have skills in programming, web designing (front-end), web development, IoT, Android Studio and a lot of designing softwares like Adobe XD, Photoshop, Illustrator, After Effects, Canva and Figma. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 The fusion of design and code has always been a mystery to me. One can create magic in its highest form if a state of perfect amalgamation has been attained between the design and code aspects. I seek to attain the knowledge and skills required to achieve this state in every project I work on.
