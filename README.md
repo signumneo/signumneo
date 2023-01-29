@@ -44,9 +44,7 @@ PyTORCH
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=signumneo&column=7"/>
-  </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=signumneo)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 Languages and Tools: 
