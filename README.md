@@ -1,6 +1,6 @@
 <h1 align ="center">Hey Developers 👋, I'm Jacob Thomas</h1>
 
-<img align="middle" alt='Coding' width='1000' height='700' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="middle" alt='Coding' width='900' height='600' src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 
 I'm a Mumbai University BE in Electronics and Telecommunication graduate. Currently I am a Graduate student at University of California, Los Angeles (Fall 2022). <br>
