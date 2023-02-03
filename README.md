@@ -40,7 +40,7 @@ PyTORCH
 
 
 
-<h4>Github Profile Trophy 🏆</h4>
+Github Profile Trophy 🏆
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=signumneo)
 
